@@ -1,4 +1,5 @@
 [
+  "strings": [
   {
     "family_id": "",
     "monument_id": "SLON",
@@ -14,4 +15,4 @@
     "EItem": "XER1",
     "ACTIONS": "sit"
   }
-]
+]]
