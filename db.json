@@ -1,18 +1,18 @@
-[
-  "strings": [
-  {
-    "family_id": "",
-    "monument_id": "SLON",
-    "variant_id": 12,
-    "envelope_no": "LOL1",
-    "title": "ASSY COCK",
-    "variant_def": "",
-    "envelope_def": ";)",
-    "top_assy_required": false,
-    "ta_suffix_1": "(O__O)",
-    "ta_fuffix_2": "(>__<)",
-    "RAL": "ral",
-    "EItem": "XER1",
-    "ACTIONS": "sit"
-  }
-]]
+{ "strings": [
+    {
+      "family_id": "",
+      "monument_id": "SLON",
+      "variant_id": 12,
+      "envelope_no": "LOL1",
+      "title": "ASSY COCK",
+      "variant_def": "",
+      "envelope_def": ";)",
+      "top_assy_required": false,
+      "ta_suffix_1": "(O__O)",
+      "ta_fuffix_2": "(>__<)",
+      "RAL": "ral",
+      "EItem": "XER1",
+      "ACTIONS": "sit"
+    }
+  ]
+}
