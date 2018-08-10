@@ -13,7 +13,52 @@
       "ta_fuffix_2": "(>__<)",
       "RAL": "ral",
       "EItem": "XER1",
-      "ACTIONS": "sit"
+      "ACTIONS": "...."
+    },
+     {
+      "family_id": "",
+      "monument_id": "LENIN_MONUMENT1",
+      "variant_id": 13,
+      "envelope_no": "3",
+      "title": "HEART SHAPED PINK CHAIR",
+      "variant_def": "---",
+      "envelope_def": "pasta",
+      "top_assy_required": false,
+      "ta_suffix_1": "<3",
+      "ta_fuffix_2": ":O",
+      "RAL": "ral1",
+      "EItem": "EBOM",
+      "ACTIONS": "sleep, eat , jump"
+    },
+     {
+      "family_id": "",
+      "monument_id": "12312",
+      "variant_id": 12,
+      "envelope_no": "L2OL1",
+      "title": "ASSY WINGS",
+      "variant_def": "",
+      "envelope_def": ";)",
+      "top_assy_required": false,
+      "ta_suffix_1": "pshhh",
+      "ta_fuffix_2": "dsada",
+      "RAL": "ral",
+      "EItem": "XER1",
+      "ACTIONS": "fly"
+    },
+     {
+      "family_id": "2",
+      "monument_id": "SLON2",
+      "variant_id": 122,
+      "envelope_no": "LOL1",
+      "title": "ASSY COCK2",
+      "variant_def": "2",
+      "envelope_def": ";)2",
+      "top_assy_required": false,
+      "ta_suffix_1": "(O__O)2",
+      "ta_fuffix_2": "(>__<)2",
+      "RAL": "ral2",
+      "EItem": "XER12",
+      "ACTIONS": "sit2"
     }
   ],
   "comments": [
